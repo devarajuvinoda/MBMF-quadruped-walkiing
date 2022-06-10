@@ -1,1 +1,1 @@
-# MBMF-quadruped-walkiing
+# MBMF-quadruped-walking
